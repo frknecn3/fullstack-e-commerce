@@ -1,0 +1,13 @@
+.dropdown{
+    transition: all .3s ease-in-out;
+}
+.dropdown-active{
+    opacity: 1;
+    transition: all .3s ease-in-out;
+}
+
+.dropdown-hidden{
+    opacity: 0;
+    transition: all .3s ease-in-out;
+    pointer-events: none;
+}

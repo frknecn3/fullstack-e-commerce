@@ -1,0 +1,5 @@
+node_modules/
+.env
+dist/
+clientside/node_modules/
+clientside/.env
