@@ -1,9 +1,0 @@
-.navbar .active{
-    font-weight: bold;
-}
-
-.header-contents{
-  padding-left: clamp(10px, 10vw, 30vw);
-  padding-right: clamp(10px, 10vw, 30vw);
-  box-sizing: border-box;
-}
