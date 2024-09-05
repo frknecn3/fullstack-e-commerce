@@ -1,5 +1,7 @@
 node_modules/
+node_modules
 .env
 dist/
 clientside/node_modules/
 clientside/.env
+config/stripeConfig.js
