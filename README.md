@@ -27,7 +27,7 @@
   <li>They can then login to the page, utilizing a JSON Web Token auth system to maximize security.</li>
   <li>If users happen to forget their passwords, they can use the secret question answer to reset them.</li>
   <li>User cart information is stored inside Local Storage of the browser, allowing users to continue their shopping from where they left.</li>
-  <li>Whenever a user proceeds to the checkout section and fills out the form, an order is created and stored inside the</li>
+  <li>Whenever a user proceeds to the checkout section and fills out the form, an order is created and stored inside the database with client ID and product IDs, populated when fetch requests are sent.</li>
 </ul>
 
 <h2>PRODUCTS</h2>
