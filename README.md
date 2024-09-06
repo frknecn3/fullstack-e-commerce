@@ -1,7 +1,7 @@
 <h1>MERN Fullstack E-commerce Project</h1>
 <hr>
 
-<h2>Demonstration of the Project (3x sped up):</h2>
+<h2>Demonstration of the Project (Click To View):</h2>
 
 [![DEMO](https://img.youtube.com/vi/GZyybLjaONI/maxresdefault.jpg)](https://www.youtube.com/watch?v=GZyybLjaONI)
 
