@@ -3,7 +3,7 @@
 
 <h2>Demonstration of the Project (3x sped up):</h2>
 
-[![DEMO](https://img.youtube.com/vi/GZyybLjaONI/maxresdefault.jpg)] (https://www.youtube.com/watch?v=GZyybLjaONI)
+[![DEMO](https://img.youtube.com/vi/GZyybLjaONI/maxresdefault.jpg)](https://www.youtube.com/watch?v=GZyybLjaONI)
 
 <p>
   This is a full-stack e-commerce project created by me, featuring a robust e-commerce application utilizing the technologies of React for frontend and Express, MongoDB and Node.js for backend. The web application includes not only a beautiful Tailwind interface with interactive elements for the users, but also an Admin dashboard resembling the real-life implementations of similar apps. As a cherry on the top, the project includes a mockup of a Stripe Payment Process in order to maximize the project's similarity to a real web app.
